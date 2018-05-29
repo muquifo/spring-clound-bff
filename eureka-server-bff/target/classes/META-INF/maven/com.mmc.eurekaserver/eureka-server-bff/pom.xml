@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mmc</groupId>
-	<artifactId>config-server</artifactId>
+	<groupId>com.mmc.eurekaserver</groupId>
+	<artifactId>eureka-server-bff</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>config-server</name>
-	<description>Servidor de Configurações</description>
+	<name>eureka-server-bff</name>
+	<description>Eureka Bff</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -36,7 +36,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-config-server</artifactId>
+			<artifactId>spring-cloud-starter-eureka-server</artifactId>
 		</dependency>
 
 		<dependency>
