@@ -1,10 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: zuul-server
+Implementation-Title: zuul-server-bff
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: murilo
-Implementation-Vendor-Id: com.mmc
+Implementation-Vendor-Id: com.mmc.zuulserver
 Build-Jdk: 1.8.0_171
-Implementation-URL: http://projects.spring.io/spring-boot/zuul-server/
+Implementation-URL: http://projects.spring.io/spring-boot/zuul-server-
+ bff/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
