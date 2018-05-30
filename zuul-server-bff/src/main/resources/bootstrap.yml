@@ -1,6 +1,6 @@
 spring:
   application:
-    name: zuul-server
+    name: zuul-server-bff
   cloud:
     config:
       uri: http://localhost:9090

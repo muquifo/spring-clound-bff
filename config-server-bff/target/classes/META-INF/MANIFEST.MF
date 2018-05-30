@@ -2,10 +2,9 @@ Manifest-Version: 1.0
 Implementation-Title: config-server-bff
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: murilo
-Implementation-Vendor-Id: com.mmc.configserver
+Implementation-Vendor-Id: com.mmc
 Build-Jdk: 1.8.0_171
-Implementation-URL: http://projects.spring.io/spring-boot/config-serve
- r-bff/
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/config-server-bff
 Created-By: Maven Integration for Eclipse
-Implementation-Vendor: Pivotal Software, Inc.
 
